@@ -43,6 +43,9 @@
         "100.tmj#sala100": {
             "scaleInDock": 1
         },
+        "100.tmj#sofas": {
+            "scaleInEditor": 1
+        },
         "mapa_inicial.tmj": {
             "expandedGroupLayers": [
                 55
@@ -58,7 +61,7 @@
             "scaleInDock": 1
         }
     },
-    "last.imagePath": "C:/Users/eduar/Documents/GitHub/halloween_school/partes",
+    "last.imagePath": "C:/Users/eduar/Documents/GitHub/halloween_school/partes/forniture",
     "map.fixedSize": false,
     "openFiles": [
         "100.tmj"
