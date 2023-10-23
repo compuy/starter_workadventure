@@ -1,0 +1,77 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "100.tmj",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "Todos os Ficheiros (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "#mapa": {
+            "scaleInDock": 0.25,
+            "scaleInEditor": 0.33
+        },
+        "100.tmj": {
+            "expandedGroupLayers": [
+                51,
+                54,
+                55,
+                52
+            ],
+            "scale": 0.5,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 769,
+                "y": 446
+            }
+        },
+        "100.tmj#Chunk 1": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "100.tmj#chao": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "100.tmj#chão": {
+            "dynamicWrapping": true
+        },
+        "100.tmj#sala100": {
+            "scaleInDock": 1
+        },
+        "mapa_inicial.tmj": {
+            "expandedGroupLayers": [
+                55
+            ],
+            "scale": 1.2044642857142855,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 496.07116382505575,
+                "y": 336.664195700519
+            }
+        },
+        "mapa_inicial.tmj#Chunk 1": {
+            "scaleInDock": 1
+        }
+    },
+    "last.imagePath": "C:/Users/eduar/Documents/GitHub/halloween_school/partes",
+    "map.fixedSize": false,
+    "openFiles": [
+        "100.tmj"
+    ],
+    "project": "halloween_school.tiled-project",
+    "recentFiles": [
+        "100.tmj",
+        "mapa_inicial.tmj"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 32,
+        "width": 32
+    },
+    "tileset.type": 0
+}
