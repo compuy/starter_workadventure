@@ -19,14 +19,14 @@
             "expandedGroupLayers": [
                 52,
                 55,
-                51,
-                54
+                54,
+                51
             ],
             "scale": 0.5,
             "selectedLayer": 7,
             "viewCenter": {
-                "x": 783,
-                "y": 348
+                "x": 781,
+                "y": 346
             }
         },
         "100.tmj#Chunk 1": {
@@ -69,14 +69,14 @@
             "expandedGroupLayers": [
                 52,
                 55,
-                51,
-                54
+                54,
+                51
             ],
             "scale": 0.5721028645833333,
             "selectedLayer": 6,
             "viewCenter": {
-                "x": 768.218492176387,
-                "y": 384.54623044096735
+                "x": 766.4705547652917,
+                "y": 382.79829302987207
             }
         },
         "200.tmj#Chunk 1": {
@@ -107,6 +107,21 @@
             "scaleInDock": 1
         },
         "200.tmj#sofas": {
+            "scaleInDock": 1
+        },
+        "C:/Users/eduar/Documents/GitHub/starter_workadventure/map.tmj": {
+            "expandedGroupLayers": [
+                52,
+                55
+            ],
+            "scale": 0.8685987903225806,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 496.77711367724714,
+                "y": 336.1736203795044
+            }
+        },
+        "C:/Users/eduar/Documents/GitHub/starter_workadventure/map.tmj#Chunk 1": {
             "scaleInDock": 1
         },
         "mapa_inicial.tmj": {
