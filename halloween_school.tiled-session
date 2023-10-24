@@ -17,16 +17,16 @@
         },
         "100.tmj": {
             "expandedGroupLayers": [
-                51,
-                54,
+                52,
                 55,
-                52
+                51,
+                54
             ],
             "scale": 0.5,
-            "selectedLayer": 4,
+            "selectedLayer": 7,
             "viewCenter": {
-                "x": 769,
-                "y": 446
+                "x": 783,
+                "y": 348
             }
         },
         "100.tmj#Chunk 1": {
@@ -40,11 +40,74 @@
         "100.tmj#chão": {
             "dynamicWrapping": true
         },
+        "100.tmj#comeco": {
+            "scaleInDock": 1
+        },
+        "100.tmj#h1": {
+            "scaleInDock": 1
+        },
+        "100.tmj#h2": {
+            "scaleInDock": 1
+        },
+        "100.tmj#numero salas": {
+            "scaleInDock": 1
+        },
+        "100.tmj#porta": {
+            "scaleInDock": 1
+        },
+        "100.tmj#porta2": {
+            "scaleInDock": 1
+        },
         "100.tmj#sala100": {
             "scaleInDock": 1
         },
         "100.tmj#sofas": {
+            "scaleInDock": 1,
             "scaleInEditor": 1
+        },
+        "200.tmj": {
+            "expandedGroupLayers": [
+                52,
+                55,
+                51,
+                54
+            ],
+            "scale": 0.5721028645833333,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 768.218492176387,
+                "y": 384.54623044096735
+            }
+        },
+        "200.tmj#Chunk 1": {
+            "scaleInDock": 1
+        },
+        "200.tmj#chao": {
+            "scaleInDock": 1
+        },
+        "200.tmj#comeco": {
+            "scaleInDock": 1
+        },
+        "200.tmj#h1": {
+            "scaleInDock": 1
+        },
+        "200.tmj#h2": {
+            "scaleInDock": 1
+        },
+        "200.tmj#numero salas": {
+            "scaleInDock": 1
+        },
+        "200.tmj#porta": {
+            "scaleInDock": 1
+        },
+        "200.tmj#porta2": {
+            "scaleInDock": 1
+        },
+        "200.tmj#sala100": {
+            "scaleInDock": 1
+        },
+        "200.tmj#sofas": {
+            "scaleInDock": 1
         },
         "mapa_inicial.tmj": {
             "expandedGroupLayers": [
