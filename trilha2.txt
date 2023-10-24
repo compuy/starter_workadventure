@@ -4,16 +4,16 @@
 
 
 H1:
-s1 - I - 
-s2 - F - 
-s3 - L - 
+s1 - I - x
+s2 - F - x
+s3 - L - x
 
 
 H2:
-s1 - 
-s2 - 
-s3 - 
-s4 - 
+s1 - O - x
+s2 - F - x
+s3 - D - x
+s4 - M - x
 
 
 Senha 1 = IFL

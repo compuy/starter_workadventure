@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "100.tmj",
+    "activeFile": "200.tmj",
     "expandedProjectPaths": [
     ],
     "file.lastUsedOpenFilter": "Todos os Ficheiros (*)",
@@ -127,11 +127,13 @@
     "last.imagePath": "C:/Users/eduar/Documents/GitHub/halloween_school/partes/forniture",
     "map.fixedSize": false,
     "openFiles": [
-        "100.tmj"
+        "100.tmj",
+        "200.tmj"
     ],
     "project": "halloween_school.tiled-project",
     "recentFiles": [
         "100.tmj",
+        "200.tmj",
         "mapa_inicial.tmj"
     ],
     "tileset.embedInMap": true,
